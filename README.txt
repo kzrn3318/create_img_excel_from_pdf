@@ -1,7 +1,6 @@
 必要なパッケージ
 	PyPDF2
 	pillow
-	glob
 	fitz
 	camelot
 	pandas
